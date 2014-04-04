@@ -1,0 +1,4 @@
+simplogger
+==========
+
+Simple PHP Logger
